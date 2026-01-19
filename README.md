@@ -2,7 +2,7 @@
   <h1 align="center">
    Proyecto de fin de ciclo 
     <br/>
-        <!--<img src="" alt="repositorio_PFC_logo"/>-->
+       <img src="https://github.com/carlaportela/PFC/blob/main/readme_git_pfc.png" alt="repositorio_PFC_logo"/>
     <br/>
   </h1>
   <h2 align="left">Convocatoria enero - marzo 2026</h2>
