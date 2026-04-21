@@ -1,89 +1,150 @@
-<div>
-  <h1 align="center">
-   Proyecto de fin de ciclo 
-    <br/>
-       <img src="https://github.com/carlaportela/PFC/blob/main/readme_git_pfc.png" alt="repositorio_PFC_logo"/>
-    <br/>
-  </h1>
-  <h2 align="left">Convocatoria enero - marzo 2026</h2>
-  <p align="left">
-     <!--Badge de desarrollo-->
-     <img src="https://img.shields.io/badge/Status-in%20progress-green">
-  <!--Badge de issues-->
-    <img src="https://img.shields.io/github/issues/carlaportela/daw?label=Issues">
-  <!--Badge de licencia 
-      <img src="https://img.shields.io/github/license/carlaportela/DAW"/>
-    -->
-  <!--Badge de contributors-->
-    <img src="https://img.shields.io/github/contributors/carlaportela/daw?label=Contributors">
-  <!--Badge de seguidores-->
-    <img src="https://img.shields.io/github/followers/carlaportela"/>
-  <!--Badge de forks-->
-    <img src="https://img.shields.io/github/forks/carlaportela/DAW"/>
-  </p>
-  <p>Repositorio en desarrollo del proyecto de fin de ciclo (PFC) Ciclo del Grado Superior de Desarrollo de Aplicaciones Web, impartido por la Xunta de Galicia en el centro IES de Teis (Vigo)</p>
-  <h3>Aspectos generales</h3>
-  <p>El módulo de proyecto de Desarrolo de aplicaciones Web, de 26 horas de duración, complementa a la formación de otro módulos profesionales en las funciones de análisis, diseño y organización, y planificación.:</p>
-  <p align="left">
-    <ol>
-      <li>Sus objetivos principales son:
-        <ul>
-          <li>Identificar las necesidades del sector productivo.</li>
-          <li>Diseñar el proyecto aplicando las competencias adquiridas en el ciclo formativo.</li>
-          <li>Planificar la puesta en práctica del mismo.</li>
-          <li>Definir los procedimientos para el seguimiento y control del proyecto</li>
-          <li>Elaborar y exponer un informe sobre el mismo</li>
-        </ul>
-      </li>
-       <br>
-      <li>Procedimiento: 
-        <ul>
-          <li>Entrega al tutor de un <strong>anteproyecto</strong> con una descripción de   proyecto a realizar, justificación de la necesidad del mismo y las tecnologías que previsiblemente se emplearan en su desarrollo. La extensión del documento será de aproximadamente <strong>dos páginas</strong>.</li>
-          <li>Asistencia a <strong>reuniones quincenales</strong> en el centro educativo en las que se informará al tutor del desarrollo del proyecto y se consultarán las dudas que puedan surgir al profesorado.</li>
-          <li>Redacción de la <strong>documentación</strong> pertienente.</li>
-          <li>Preparación de la <strong>presentación</strong> del proyecto.</li>
-        </ul>
-      </li>
-       <br>
-      <li>Estructura de la documentación: El alumnado deberá entregar una memoria con una extensión equivalente a aproximadamente <strong>30 páginas</strong> con formato, preferiblemente de, <strong>A4, fuente con tamaño de 12 puntos y espaciado entre lineas de 1,5 puntos</strong>. 
-      <p>Esta memoria deberá contener, como mínimo, los siguiente apartados:</p>
-        <ul>
-          <li>Explicación del proyecto.</li>
-          <li>Justificación de la necesidad del mismo en un entorno productivo.</li>
-          <li>Tecnologías empleadas y justificación de su elección.</li>
-          <li>Diagrama de clases, de casos de uso, de secuencia (opcional) y de la base de datos (E/R para bases de datos relacionales o su equivalente para lo relacionales).</li>
-          <li>Decisiones de diseño.</li>
-          <li>Asignación de recursos materiales y humanos y presupuesto para los mismos.</li>
-          <li>Despliegue de la aplicación.</li>
-          <li>Tiempos de ejecución.</li>
-          <li>Líneas futuras.</li>
-        </ul>
-      </li>
-      <br>
-      <p>Debe además incluír <strong>índice, introducción, conclusiones y biografía</strong> o equivalente con los recursos consultados.</p>
-      <li>Entrega de código: Debe emplearse <strong>git para el control de versiones</strong> y subir el código a un repositorio remoto (GitHub). En caso de que el repositorio no sea público se deberá agregar como colaborador al tutor para que tenga acceso a él.
-      <br>En caso de emplear código que sea parte d eun proyecto realizado para una empresa y no se pueda compartir, contacta con el tutor para encontrar una alternativa adecuada. 
-      </li>
-      <br>
-      <li>Presentación: Consistirá en una <strong>explicación oral del proyecto</strong>, justificación de la necesidad y resumen de su desarrollo, tanto en lo que respecta a la justificación de las tecnologías empleadas como de los recursos y de su presupuesto.
-      <br>Estará presente un <strong>tribunal</strong> de un mínimo de 3 miembros escogidos entre el equipo docente de 2º.
-      <br>De forma general, <strong>la duración será de 10 minutos</strong> más la contestación a las preguntas que el tribunal estime oportuno formular, aunque a la petición del alumnado, el tutor podrá conceder una exposición más amplia por motivos justificados.
-    </ol>
-  </p>
-  <h4>Autor</h4>
-  <p>
+# 🎓 Proyecto de Fin de Ciclo (PFC)
+
+<p align="center">
+  <img src="https://github.com/carlaportela/PFC/blob/main/readme_git_pfc.png" alt="PFC Logo" width="60%">
+</p>
+
+## 📅 Convocatoria
+**Enero - Marzo 2026**
+
+---
+
+## 🚀 Estado del Proyecto
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Repo Size](https://img.shields.io/github/repo-size/carlaportela/PFC)
+![Last Commit](https://img.shields.io/github/last-commit/carlaportela/PFC)
+![Issues](https://img.shields.io/github/issues/carlaportela/PFC?label=Issues)
+![Forks](https://img.shields.io/github/forks/carlaportela/PFC?label=Forks)
+
+---
+
+## 📝 Descripción
+
+Repositorio del **Proyecto de Fin de Ciclo (PFC)** correspondiente al ciclo formativo de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, impartido por la **Xunta de Galicia** en el **IES de Teis (Vigo)**.
+
+Este proyecto integra y aplica los conocimientos adquiridos durante el ciclo formativo, abarcando análisis, diseño, desarrollo y despliegue de una aplicación web.
+
+---
+
+## 🎯 Objetivos del Proyecto
+
+- Identificar las necesidades del sector productivo  
+- Diseñar el proyecto aplicando las competencias adquiridas  
+- Planificar la puesta en práctica del proyecto  
+- Definir procedimientos de seguimiento y control  
+- Elaborar documentación técnica completa  
+- Exponer el proyecto ante tribunal  
+
+---
+
+## ⚙️ Metodología de Trabajo
+
+### 📌 Procedimiento
+
+- Entrega de un **anteproyecto** (aprox. 2 páginas)  
+- Asistencia a **reuniones quincenales** con el tutor  
+- Desarrollo progresivo del proyecto  
+- Redacción de la documentación técnica  
+- Preparación de la presentación final  
+
+---
+
+## 📚 Documentación
+
+Se entrega una memoria técnica (~30 páginas) con la siguiente estructura:
+
+- Explicación del proyecto  
+- Justificación en entorno productivo  
+- Tecnologías empleadas y justificación de su elección  
+- Diagramas:
+  - Diagrama de clases  
+  - Casos de uso  
+  - Base de datos (E/R)  
+- Decisiones de diseño  
+- Recursos materiales y humanos y presupuesto  
+- Despliegue de la aplicación  
+- Planificación temporal  
+- Líneas futuras  
+
+Incluye además:
+
+- Índice  
+- Introducción  
+- Conclusiones  
+- Bibliografía  
+
+---
+
+## 💻 Código Fuente
+
+- Uso de **Git** para control de versiones  
+- Código alojado en **GitHub**  
+- Desarrollo estructurado y versionado  
+
+> Nota: En caso de código no publicable (por restricciones empresariales), se contemplan alternativas acordadas con el tutor.
+
+---
+
+## 🎤 Presentación
+
+- Exposición oral del proyecto  
+- Duración aproximada: **10 minutos**  
+- Evaluación por un **tribunal (mínimo 3 docentes)**  
+- Turno de preguntas posterior  
+
+---
+
+## 🏆 Calificación
+
+**Calificación obtenida: Sobresaliente (9/10)**
+
+---
+
+## 📌 Lecciones aprendidas
+
+- Uso avanzado de Git y control de versiones  
+- Planificación y gestión de proyectos reales  
+- Diseño y desarrollo de aplicaciones web completas  
+- Documentación técnica profesional  
+- Preparación de presentaciones técnicas ante tribunal  
+
+---
+
+## 👩‍💻 Autor
+
+<p>
     <a href="https://github.com/carlaportela">
      <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
     </a>
   </p>
-  <h4>Tutor</h4>
-  <p>
+
+---
+
+## 👨‍🏫 Tutor
+
+<p>
     <a style="text-decoration: none;" href="https://github.com/kosdeveloper" style="textdecoration: none;">
      <img src="https://avatars.githubusercontent.com/u/70531028?v=4" alt="perfil" height="32px" width="32px"/>
     </a>
-  </p>
-  <h5>Licencia</h5>
-  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-   <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+  </p> 
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia:
+
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+   <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/> 
+</a>
+
+---
+
+## 🚀 Nota final
+
+Este proyecto representa la culminación del ciclo DAW, integrando conocimientos técnicos, buenas prácticas de desarrollo y una aproximación real a un entorno profesional.
+ 
+  
   </a>
 </div>
